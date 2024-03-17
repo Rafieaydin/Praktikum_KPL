@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\Praktikum\TPMOD05\DataGeneric\DataGeneric\bin\Debug\net8.0\DataGeneric.exe
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\Praktikum\TPMOD05\DataGeneric\DataGeneric\bin\Debug\net8.0\DataGeneric.deps.json
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\Praktikum\TPMOD05\DataGeneric\DataGeneric\bin\Debug\net8.0\DataGeneric.runtimeconfig.json
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\Praktikum\TPMOD05\DataGeneric\DataGeneric\bin\Debug\net8.0\DataGeneric.dll
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\Praktikum\TPMOD05\DataGeneric\DataGeneric\bin\Debug\net8.0\DataGeneric.pdb
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\Praktikum\TPMOD05\DataGeneric\DataGeneric\obj\Debug\net8.0\DataGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\Praktikum\TPMOD05\DataGeneric\DataGeneric\obj\Debug\net8.0\DataGeneric.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\Praktikum\TPMOD05\DataGeneric\DataGeneric\obj\Debug\net8.0\DataGeneric.AssemblyInfo.cs
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\Praktikum\TPMOD05\DataGeneric\DataGeneric\obj\Debug\net8.0\DataGeneric.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\Praktikum\TPMOD05\DataGeneric\DataGeneric\obj\Debug\net8.0\DataGeneric.sourcelink.json
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\Praktikum\TPMOD05\DataGeneric\DataGeneric\obj\Debug\net8.0\DataGeneric.dll
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\Praktikum\TPMOD05\DataGeneric\DataGeneric\obj\Debug\net8.0\refint\DataGeneric.dll
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\Praktikum\TPMOD05\DataGeneric\DataGeneric\obj\Debug\net8.0\DataGeneric.pdb
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\Praktikum\TPMOD05\DataGeneric\DataGeneric\obj\Debug\net8.0\DataGeneric.genruntimeconfig.cache
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\Praktikum\TPMOD05\DataGeneric\DataGeneric\obj\Debug\net8.0\ref\DataGeneric.dll
