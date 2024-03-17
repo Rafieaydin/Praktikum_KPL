@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGeneric", "DataGeneric\DataGeneric.csproj", "{8097896C-7414-4ADB-A2E1-1745FB662439}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8097896C-7414-4ADB-A2E1-1745FB662439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8097896C-7414-4ADB-A2E1-1745FB662439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8097896C-7414-4ADB-A2E1-1745FB662439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8097896C-7414-4ADB-A2E1-1745FB662439}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8335F1B8-C0F3-455A-8600-EDC4EE6BB423}
+	EndGlobalSection
+EndGlobal
