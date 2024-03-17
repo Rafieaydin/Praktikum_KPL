@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataGeneric")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04204a4eaa4bd72f5f288381c011db3c4083cc0f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e9c8c621c0405607b6d297dc1b318f4718125f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataGeneric")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataGeneric")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

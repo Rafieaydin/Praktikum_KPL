@@ -1,9 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using DataGeneric;
+using HaloGeneric;
 class Program {
     public static void Main(string[] args)
     {
-        DataGeneric<String> data = new DataGeneric<String>("1302220065");
+        HaloGeneric<String> data = new HaloGeneric<String>("1302220065");
         data.PrintData();
     }
 }

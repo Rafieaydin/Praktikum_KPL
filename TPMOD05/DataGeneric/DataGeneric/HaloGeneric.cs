@@ -4,20 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataGeneric
+namespace HaloGeneric
 {
-    internal class DataGeneric<T>
+    internal class HaloGeneric<T>
     {
         private T data;
-        public DataGeneric(T data)
+        public HaloGeneric(T data)
         {
             this.data = data;
         }
 
         public void PrintData()
         {
-            Console.WriteLine(data);
+            Console.WriteLine("Halo " + data);
         }
-
     }
 }
