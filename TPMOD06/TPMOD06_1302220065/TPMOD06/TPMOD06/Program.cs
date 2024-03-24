@@ -7,7 +7,7 @@ class Progam {
 
     public static void Main(String[] Args)
     {
-        SayaTubeVideo video = new SayaTubeVideo("SayaTube Video", 0);
+        SayaTubeVideo video = new SayaTubeVideo("", 0);
         for (int i = 0; i < 220; i++)
         {
             video.incrementPlayCount(10000000);

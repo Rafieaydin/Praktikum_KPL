@@ -14,6 +14,10 @@ namespace TPMOD06.SayaTubeVideo
 
         public SayaTubeVideo(String title, int PlayCount)
         {
+            if(title == null || title == "")
+            {
+                throw new ArgumentException("Title cannot be null or empty");
+            }
             Random r = new Random();
             this.id =  r.Next(10000, 99999);
             this.title = title;
