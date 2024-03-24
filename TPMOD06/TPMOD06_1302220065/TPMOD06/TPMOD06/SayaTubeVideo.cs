@@ -22,7 +22,26 @@ namespace TPMOD06.SayaTubeVideo
 
         public void incrementPlayCount(int x)
         {
-            this.PlayCount =+ x;
+            try
+            {
+                checked
+                {
+                    if (x > 10000000)
+                    {
+                        PlayCount += 10000000;
+                    }
+                    else
+                    {
+                        PlayCount += x;
+                    }
+
+                }
+            }
+            catch (OverflowException e)
+            {
+                this.PlayCount = int.MaxValue;
+                Console.WriteLine("Play count is too high to increment \n");
+            }
         }
 
         public void printVideoDetails()
