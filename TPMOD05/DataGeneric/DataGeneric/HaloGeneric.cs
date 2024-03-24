@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace HaloGeneric
 {
-    internal class HaloGeneric<T>
+    internal class HaloGeneric<t>
     {
-        private T data;
-        public HaloGeneric(T data)
+        private t data;
+        public HaloGeneric(t data)
         {
             this.data = data;
         }
