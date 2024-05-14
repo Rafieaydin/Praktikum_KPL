@@ -1,0 +1,12 @@
+C:\Users\LOQ\Documents\Sekolah\Semester 4\KPL\tubes\AljabarLibraries\AljabarLibraries\bin\Debug\net8.0\AljabarLibraries.deps.json
+C:\Users\LOQ\Documents\Sekolah\Semester 4\KPL\tubes\AljabarLibraries\AljabarLibraries\bin\Debug\net8.0\AljabarLibraries.dll
+C:\Users\LOQ\Documents\Sekolah\Semester 4\KPL\tubes\AljabarLibraries\AljabarLibraries\bin\Debug\net8.0\AljabarLibraries.pdb
+C:\Users\LOQ\Documents\Sekolah\Semester 4\KPL\tubes\AljabarLibraries\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOQ\Documents\Sekolah\Semester 4\KPL\tubes\AljabarLibraries\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.AssemblyInfoInputs.cache
+C:\Users\LOQ\Documents\Sekolah\Semester 4\KPL\tubes\AljabarLibraries\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.AssemblyInfo.cs
+C:\Users\LOQ\Documents\Sekolah\Semester 4\KPL\tubes\AljabarLibraries\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\Documents\Sekolah\Semester 4\KPL\tubes\AljabarLibraries\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.sourcelink.json
+C:\Users\LOQ\Documents\Sekolah\Semester 4\KPL\tubes\AljabarLibraries\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.dll
+C:\Users\LOQ\Documents\Sekolah\Semester 4\KPL\tubes\AljabarLibraries\AljabarLibraries\obj\Debug\net8.0\refint\AljabarLibraries.dll
+C:\Users\LOQ\Documents\Sekolah\Semester 4\KPL\tubes\AljabarLibraries\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.pdb
+C:\Users\LOQ\Documents\Sekolah\Semester 4\KPL\tubes\AljabarLibraries\AljabarLibraries\obj\Debug\net8.0\ref\AljabarLibraries.dll

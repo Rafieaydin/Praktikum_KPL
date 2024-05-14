@@ -1,0 +1,19 @@
+oiya ini w abis solo brainstorm : 
+buat ide kpl nanti gw buat perpoinya 
+1. automata & table driven construction 
+2. runtime configuration & api
+3. generic & library 
+
+
+point nomer 1 : buat view nya
+point nomer 2 : buat di backend nya
+point nomer 3 : fetch api & filtering data di frond end / backend 
+
+tema : aplikasi form 
+
+feature : crud user, crud forum 
+
+alur : 
+1. login /register
+2. menambahkan forum / edit/ hapus
+3. comment di forum nya

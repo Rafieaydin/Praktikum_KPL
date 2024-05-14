@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uHNQkfSp8A1fQvZtJRb7rao71GVph/9gJ8CeIU5xIgYp5WWmlx6Vklm4GcY6YzTPYoZSM2xEXBMVlNUN2lRnFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Documents\\Kuliah\\Semester 4\\KPL\\Praktikum\\kelompok\\tubes\\test\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

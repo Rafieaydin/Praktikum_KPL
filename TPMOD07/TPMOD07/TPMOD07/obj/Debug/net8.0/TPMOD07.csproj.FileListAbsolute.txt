@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\Praktikum\TPMOD07\TPMOD07\TPMOD07\bin\Debug\net8.0\TPMOD07.exe
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\Praktikum\TPMOD07\TPMOD07\TPMOD07\bin\Debug\net8.0\TPMOD07.deps.json
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\Praktikum\TPMOD07\TPMOD07\TPMOD07\bin\Debug\net8.0\TPMOD07.runtimeconfig.json
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\Praktikum\TPMOD07\TPMOD07\TPMOD07\bin\Debug\net8.0\TPMOD07.dll
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\Praktikum\TPMOD07\TPMOD07\TPMOD07\bin\Debug\net8.0\TPMOD07.pdb
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\Praktikum\TPMOD07\TPMOD07\TPMOD07\obj\Debug\net8.0\TPMOD07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\Praktikum\TPMOD07\TPMOD07\TPMOD07\obj\Debug\net8.0\TPMOD07.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\Praktikum\TPMOD07\TPMOD07\TPMOD07\obj\Debug\net8.0\TPMOD07.AssemblyInfo.cs
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\Praktikum\TPMOD07\TPMOD07\TPMOD07\obj\Debug\net8.0\TPMOD07.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\Praktikum\TPMOD07\TPMOD07\TPMOD07\obj\Debug\net8.0\TPMOD07.sourcelink.json
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\Praktikum\TPMOD07\TPMOD07\TPMOD07\obj\Debug\net8.0\TPMOD07.dll
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\Praktikum\TPMOD07\TPMOD07\TPMOD07\obj\Debug\net8.0\refint\TPMOD07.dll
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\Praktikum\TPMOD07\TPMOD07\TPMOD07\obj\Debug\net8.0\TPMOD07.pdb
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\Praktikum\TPMOD07\TPMOD07\TPMOD07\obj\Debug\net8.0\TPMOD07.genruntimeconfig.cache
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\Praktikum\TPMOD07\TPMOD07\TPMOD07\obj\Debug\net8.0\ref\TPMOD07.dll
